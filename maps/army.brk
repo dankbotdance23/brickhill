@@ -1,0 +1,378 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0 0 0
+0.14 0.59 0 1
+0.28 0.55 0.78
+400
+400
+
+6 111 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3
+16 125 0 10 1 0.20 1 0.77 0 1
+	+NAME brick3 - Copy
+6 103 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy
+6 107 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy
+4 101 0 34 28 0.10 0.46 0.48 0.49 1
+	+NAME brick7
+	+ROT 270
+4 100 0 34 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy
+	+ROT 270
+3 100 0 1 10 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy
+	+ROT 360
+4 131 0 34 1 15 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 90
+38 100 0 1 10 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 360
+3 120 0 1 10 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 360
+-49 110 0 53 10 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 360
+-31 120 0 34 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 90
+-39 109 0 42 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-49 18 0 10 92 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 90
+-39 18 0 1 91 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-49 120 0 18 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-50 8 0 1 113 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-103 57 0 53 64 0.10 0.89 0.89 0.86 1
+	+NAME brick7 - Copy
+	+ROT 270
+-49 8 0 134 10 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 360
+-50 7 0 43 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-39 18 0 114 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-7 -10 0 10 18 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-19 -38 0 34 28 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy
+	+ROT 90
+-17 -17 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy - Copy
+	+ROT 180
+-17 -13 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy - Copy
+	+ROT 180
+-17 -21 0 30 1 0.20 0.87 0 0.05 1
+	+NAME brick3 - Copy
+	+ROT 180
+15 -29 0 1 20 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 180
+3 -10 0 12 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy
+	+ROT 90
+-20 -29 0 1 20 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 180
+-7 -35 0 10 1 0.20 1 0.77 0 1
+	+NAME brick3 - Copy - Copy
+	+ROT 180
+-19 -10 0 12 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy
+	+ROT 90
+3 -9 0 1 16 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 180
+-8 -9 0 1 16 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+3 7 0 82 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+15 -38 0 17 9 0.10 0.46 0.48 0.49 1
+	+NAME brick38
+32 -38 0 9 9 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy
+	+ROT 90
+32 -59 0 9 4 9 0.46 0.48 0.49 1
+	+NAME brick42
+32 -67 0 9 4 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy
+32 -75 0 9 4 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy
+32 -83 0 9 4 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy
+26 -93 0 22 55 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy
+	+ROT 90
+32 -114 0 9 21 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy
+	+ROT 90
+-15 -110 8 16 1 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy
+	+ROT 180
+11 -114 0 21 9 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy
+	+ROT 180
+-36 -110 8 16 1 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy
+	+ROT 180
+-50 -118 0 61 17 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-74 -114 0 24 9 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-74 -91 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy
+-74 -86 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy
+-74 -81 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy - Copy
+-74 -76 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy - Copy
+-74 -71 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy - Copy - Copy
+-74 -66 0 9 1 9 0.46 0.48 0.49 1
+	+NAME brick42 - Copy - Copy - Copy - Copy - Copy - Copy - Copy
+-74 -55 0 9 17 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-74 -38 0 55 9 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy
+75 18 0 10 92 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+74 19 0 1 91 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 180
+85 28 0 1 92 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-49 110 5783 53 10 0.10 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 360
+38 110 0 47 10 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 360
+38 120 0 1 10 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 360
+39 120 0 47 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 90
+39 109 0 35 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+32 -55 0 9 4 6 0.46 0.48 0.49 1
+	+NAME brick69
+	+ROT 360
+32 -51 0 9 4 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy
+	+ROT 360
+32 -51 3 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy
+	+ROT 360
+32 -47 0 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 360
+32 -55 6 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 360
+32 -85 6 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 90
+32 -87 0 9 4 6 0.46 0.48 0.49 1
+	+NAME brick69 - Copy
+	+ROT 360
+32 -89 3 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 360
+32 -91 0 9 4 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 360
+32 -93 0 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 360
+1 -112 6 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 360
+1 -112 0 4 9 6 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 270
+5 -112 3 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 270
+5 -112 0 4 9 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 270
+9 -112 0 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 270
+-38 -113 6 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 180
+-40 -113 0 4 9 6 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy
+	+ROT 90
+-42 -113 3 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 90
+-44 -113 0 4 9 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 90
+-46 -113 0 2 9 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 90
+-74 -101 0 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy
+	+ROT 360
+-74 -99 0 9 4 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 360
+-74 -97 3 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 360
+-74 -95 0 9 4 6 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy
+	+ROT 360
+-74 -93 6 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+-75 -57 0 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-75 -61 0 9 4 3 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-75 -61 3 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+-75 -65 0 9 4 6 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy
+	+ROT 180
+-75 -65 6 9 2 2 0.46 0.48 0.49 1
+	+NAME brick69 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 270
+-74 -105 0 9 4 0.10 0.46 0.48 0.49 1
+	+NAME brick38 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+93 67 0 39 39 2 0.46 0.48 0.49 1
+	+NAME brick101
+86 99 0 10 6 0.10 0.36 0.11 0.05 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+93 68 2 1 31 4 0.46 0.48 0.49 1
+	+NAME brick101 - Copy
+131 67 2 1 38 17 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy
+93 105 2 39 1 17 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+93 67 2 38 1 17 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+131 67 2 1 38 17 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+92 66 19 41 41 1 0.50 0.03 0.11 1
+	+NAME brick101 - Copy - Copy
+93 98 6 1 1 4 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy
+93 68 6 1 1 4 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+93 69 6 0.50 29 4 0 0.75 0.83 0.78
+	+NAME brick101 - Copy - Copy - Copy - Copy
+93 99 10 1 6 9 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+93 68 10 1 31 9 0.46 0.48 0.49 1
+	+NAME brick101 - Copy - Copy - Copy
+124 98 2 4 4 1 0.46 0.48 0.49 0
+	+NAME brick114
+	+SHAPE spawnpoint
+124 91 2 4 4 1 0.46 0.48 0.49 0
+	+NAME brick114 - Copy
+	+SHAPE spawnpoint
+124 77 2 4 4 1 0.46 0.48 0.49 0
+	+NAME brick114 - Copy - Copy
+	+SHAPE spawnpoint
+124 84 2 4 4 1 0.46 0.48 0.49 0
+	+NAME brick114 - Copy
+	+SHAPE spawnpoint
+124 70 2 4 4 1 0.46 0.48 0.49 0
+	+NAME brick114 - Copy
+	+SHAPE spawnpoint
+124 91 2 4 4 1 0.46 0.48 0.49 0.39
+	+NAME brick114 - Copy - Copy
+	+SHAPE spawnpoint
+124 98 2 4 4 1 0.46 0.48 0.49 0.39
+	+NAME brick114 - Copy
+	+SHAPE spawnpoint
+4 129 0 34 1 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy
+	+ROT 90
+85 18 0 18 10 0.10 0.46 0.48 0.49 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 90
+85 7 0 1 11 0.20 0.89 0.89 0.86 1
+	+NAME brick7 - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+103 20 1 1 6 8 0 0 0 1
+	+NAME teleport
+110 10 1 25 25 1 0.30 0.32 0.34 1
+	+NAME swordbrick
+	+ROT 90
+116 22 4 2 2 1 0.87 0 0.05 1
+	+NAME Part
+103 3 0 40 40 1 0.30 0.32 0.34 1
+	+NAME Brick
+	+ROT 90
+103 3 1 1 1 15 0.30 0.32 0.34 1
+	+NAME Brick - Copy
+	+ROT 90
+142 3 1 1 1 15 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy
+	+ROT 90
+142 42 1 1 1 15 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy - Copy
+	+ROT 90
+103 42 1 1 1 15 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy
+	+ROT 90
+103 26 1 1 1 19 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy - Copy
+	+ROT 90
+103 19 1 1 1 19 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy - Copy
+	+ROT 90
+103 4 1 1 15 14 0.53 0.75 0.92 0.39
+	+NAME Brick - Copy - Copy
+	+ROT 90
+103 27 1 1 15 14 0.53 0.75 0.92 0.39
+	+NAME Brick - Copy - Copy - Copy
+	+ROT 90
+142 4 1 1 38 14 0.53 0.75 0.92 0.39
+	+NAME Brick - Copy - Copy - Copy - Copy
+	+ROT 90
+104 2 1 38 1 14 0.53 0.75 0.92 0.39
+	+NAME Brick - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+104 42 1 38 1 14 0.53 0.75 0.92 0.39
+	+NAME Brick - Copy - Copy - Copy - Copy - Copy - Copy
+	+ROT 180
+103 20 9 1 6 6 0.30 0.32 0.34 1
+	+NAME Brick - Copy - Copy - Copy - Copy
+	+ROT 90
+
